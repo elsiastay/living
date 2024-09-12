@@ -1,0 +1,149 @@
+*{
+    text-decoration: none;
+    text-decoration-color: none;
+    list-style: none;
+}
+body{
+    background-color: cornsilk;
+    margin: 0;
+    
+}
+body p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+
+.menu .logo-1 a img{
+ 
+    background-color: whitesmoke;
+    display: flex;
+    align-content: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.logo-1{
+   display: flex;
+   background-color: white;
+   align-items: center;
+   flex-direction: column;
+  
+}
+.logo-1 h1{
+    text-shadow:
+  -1px -1px 1px #aaa,
+  0px 4px 1px rgba(0, 0, 0, 0.5),
+  4px 4px 5px rgba(0, 0, 0, 0.7),
+  0px 0px 7px rgba(0, 0, 0, 0.4);
+
+  letter-spacing: 5px;
+  word-spacing: 10px;
+}
+.menu nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: black;
+    text-decoration: aliceblue;
+    color: aliceblue;
+}
+.menu nav a {
+    color: azure;
+}
+.content {
+    text-align: center;
+    padding: 15px;
+}
+.content-1{
+    padding: 30px;
+    text-align: center;
+}
+.content-1 p{
+    padding-left: 30px ;
+    text-align: center;
+}
+.content-1 img{
+    
+   
+    align-items: center;
+    align-content: center;
+}
+.container-2{
+    text-align: center;
+    color: black bisque;
+    padding: 30px;
+}
+.container-2 ul li{
+    padding: 5px;
+    text-align: center;
+    padding-right: 50px;
+
+}
+.menu-1 h1{
+    text-align: center;
+}
+.menu-1 nav ol li{
+    padding: 3px;
+}
+.menu-1 ol{
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+   color: black;
+}
+.container-3{
+    align-items: center;
+    padding: 5px;
+    text-align: center;
+}
+.container-4 {
+    text-align: center;
+    padding: 20 px;
+}
+.container-5 h2{
+    text-align: center;
+    padding: 20px;
+padding-right: 700px;
+}
+.container-5 ol {
+    text-align: left;
+}
+.container-5 p{
+    text-align: left;
+    padding-left: 40px;
+}
+.content-2 {
+    align-items: center;
+    text-align: center;
+}
+.content-2 a{
+    display: inline-block;
+    padding: 15px;
+    border: 2px solid rgb(194, 14, 38);
+    color: rgb(255, 252, 252);
+    margin-right: 15px;
+    border-radius: 10px;
+    background-color: rgb(146, 3, 3);
+}
+.content-2 a:hover{
+    display: inline-block;
+    padding: 15px;
+    border: 2px solid blanchedalmond;
+    color: rgb(194, 194, 194);
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.container-7 {
+    text-align: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.container-7 img {
+    padding: 15px;
+}
+.container-5 img {
+    padding: 30px;
+}
+
+
